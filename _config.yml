@@ -26,7 +26,7 @@ author:
   name             : "Wan-Chen Lin"
   pronouns         : # example: "she/her"  
   bio              : "MPH Student & Research Assistant"
-  bio_2            : "Aspiring Psychiatric Epidemiologist"
+  # bio_2            : "Aspiring Psychiatric Epidemiologist"
   location         : "Changhua / Taipei / Chapel Hill"
   employer         : "UNC-Chapel Hill"
   uri              : # URL
