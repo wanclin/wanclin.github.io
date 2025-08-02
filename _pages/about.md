@@ -72,6 +72,4 @@ I can assist with data analysis, survey development, intervention evaluation, li
 
 &nbsp;
 
----
-
 ![tw to nc](/images/lin-taiwan-to-nc.jpg)
