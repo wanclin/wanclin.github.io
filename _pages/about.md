@@ -13,13 +13,13 @@ Hello I'm Wan-Chen! ✨
 
 ## About Me
 
-I am a public health researcher with over four years of experience, specializing in how social and physical environments relate to mental health and child development. I am passionate about using quantitative and mixed-methods approaches to uncover the stories hidden within data.
+I am a public health researcher with over four years of experience in epidemiological research, focusing on how social and physical environments influence mental health and child development. I am passionate about using quantitative and mixed-methods approaches to uncover the stories hidden within data.
 
-Currently, I am a **Master of Public Health student** at the **University of North Carolina at Chapel Hill**, concentrating in Health Behavior with a minor in Epidemiology. Here, I also serve as a Graduate Research Assistant in the Department of Epidemiology. Originally from Taiwan, I earned my BSc in Public Health from Taipei Medical University and am a nationally certified Public Health Specialist.
+Currently, I am a **Master of Public Health student** at the **University of North Carolina at Chapel Hill**, concentrating in Health Behavior with a minor in Epidemiology. Here, I also serve as a Graduate Research Assistant in the Department of Epidemiology. Originally from Taiwan, I earned my BSc in Public Health from Taipei Medical University and am a nationally certified Public Health Specialist. For a detailed overview of my work, please see my [CV](https://wanclin.github.io/cv/).
 
-My research interests are fundamentally driven by a fascination with resilience. I aim to understand the complex ways in which adversity affects mental health and, more importantly, to identify the protective factors and coping mechanisms that enable individuals and communities to flourish despite challenges. This pursuit is not merely academic; it's a personal exploration of how we cultivate inner strength in an era of constant challenge and change.
+My research interests are fundamentally driven by a fascination with resilience. I aim to understand the complex ways in which adversity affects mental health and, more importantly, to identify the protective factors and coping mechanisms that enable individuals and communities to flourish despite challenges. This pursuit is not merely academic; it's a personal exploration of how we cultivate inner strength in an era of constant challenge and change. I believe public health is fundamentally about people, and science—both natural and social science—has the power to make their lives better.
 
-I believe public health is fundamentally about people, and science—both natural and social science—has the power to make people's lives better.
+In my free time, I enjoy listening to Tchaikovsky and Rachmaninoff 🎵, reading books 📚, and exploring Vedic Astrology and Tarot 🔮. I also love playing badminton 🏸.
 
 ## Current Focus
 
@@ -39,7 +39,7 @@ I am proficient in the full research cycle, from study design and data collectio
 | **Statistical Software** | SAS, Stata, R (RStudio), GraphPad Prism                    |
 | **Qualitative Software** | Dedoose, ATLAS.ti                                          |
 | **Geospatial Software**  | ArcGIS Pro                                                 |
-| **Statistical Modeling** | linear regression, logistic Regression, spatial regression |
+| **Statistical Modeling** | linear regression, logistic regression, spatial regression |
 | **Survey Methodology**   | survey development & implemtation, cognitive interview,    |
 | **Qualitative Analysis** | in-depth interview, thematic analysis                      |
 | **Literature Review**    | scoping review, systematic review, meta-analysis           |
@@ -53,7 +53,7 @@ I am a self-motivated and curious learner, constantly expanding my toolkit. Beyo
 
 * **Neuroscience of Mental Disorders**: I'm eager to deepen my understanding of fMRI and related methods to uncover the neural mechanisms underlying mental illness.
 
-* **Advanced Quantitative Methods**: I'm actively developing skills in longitudinal data analysis (e.g., GEE, GBTM, DLNM), multilevel modeling, and structural equation modeling to better analyze complex mental health data
+* **Advanced Quantitative Methods**: I'm actively developing skills in longitudinal data analysis (e.g., GEE, GBTM, DLNM), multilevel modeling, and structural equation modeling to better analyze complex mental health data.
 
 ## Open to Collaboration
 
@@ -67,5 +67,7 @@ I am an early-career scholar eager to contribute to the academic world. I welcom
 * mHealth & Digital Behavior Change Interventions
 
 I can assist with data analysis, survey development, intervention evaluation, literature reviews, and manuscript writing. If our interests align, or I can support your work in any way, please feel free to reach out to me at [is.wclin@gmail.com](mailto:is.wclin@gmail.com)!
+
+---
 
 ![tw to nc](/images/lin-taiwan-to-nc.jpg)
