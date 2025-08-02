@@ -69,7 +69,6 @@ I am an early-career scholar eager to contribute to the academic world. I welcom
 * mHealth & Digital Behavior Change Interventions
 
 I can assist with data analysis, survey development, intervention evaluation, literature reviews, and manuscript writing. If our interests align, or I can support your work in any way, please feel free to reach out to me at [is.wclin@gmail.com](mailto:is.wclin@gmail.com)!
-
 <br>
 ---
 <br>
