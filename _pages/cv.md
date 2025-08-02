@@ -24,7 +24,7 @@ redirect_from:
     * May 2025 – Present, Chapel Hill, NC (Hybrid)
     * Department of Epidemiology, Gillings School of Global Public Health, UNC-Chapel Hill
     * Project: Bachpan Study
-    * PI: Joanna “Asia” Maselko, ScD
+    * PI: Joanna "Asia" Maselko, ScD
 
 * **Graduate Research Collaborator**
     * December 2024 – Present, Research Triangle Park, NC (Remote)
