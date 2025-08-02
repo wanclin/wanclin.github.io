@@ -15,9 +15,11 @@ Hello I'm Wan-Chen! ✨
 
 I am a public health researcher with over four years of experience in epidemiological research, focusing on how social and physical environments influence mental health and child development. I am passionate about using quantitative and mixed-methods approaches to uncover the stories hidden within data.
 
-Currently, I am a **Master of Public Health student** at the **University of North Carolina at Chapel Hill**, concentrating in Health Behavior with a minor in Epidemiology. Here, I also serve as a Graduate Research Assistant in the Department of Epidemiology. Originally from Taiwan, I earned my BSc in Public Health from Taipei Medical University and am a nationally certified Public Health Specialist. For a detailed overview of my work, please see my [CV](https://wanclin.github.io/cv/).
+Currently, I am a **Master of Public Health student** at the **University of North Carolina at Chapel Hill**, concentrating in Health Behavior with a minor in Epidemiology. Here, I also serve as a Graduate Research Assistant in the Department of Epidemiology. Originally from Taiwan, I earned my BSc in Public Health from Taipei Medical University and am a nationally certified Public Health Specialist.
 
 My research interests are fundamentally driven by a fascination with resilience. I aim to understand the complex ways in which adversity affects mental health and, more importantly, to identify the protective factors and coping mechanisms that enable individuals and communities to flourish despite challenges. This pursuit is not merely academic; it's a personal exploration of how we cultivate inner strength in an era of constant challenge and change. I believe public health is fundamentally about people, and science—both natural and social science—has the power to make their lives better.
+
+To know more about my academic experiences, please visit 👉 [Research Projects](https://wanclin.github.io/research-projects/) and [CV](https://wanclin.github.io/cv/).
 
 In my free time, I enjoy listening to Tchaikovsky and Rachmaninoff 🎵, reading books 📚, and exploring Vedic Astrology and Tarot 🔮. I also love playing badminton 🏸.
 
@@ -55,7 +57,7 @@ I am a self-motivated and curious learner, constantly expanding my toolkit. Beyo
 
 * **Advanced Quantitative Methods**: I'm actively developing skills in longitudinal data analysis (e.g., GEE, GBTM, DLNM), multilevel modeling, and structural equation modeling to better analyze complex mental health data.
 
-## Open to Collaboration
+## Open to Collaboration 🤝
 
 I am an early-career scholar eager to contribute to the academic world. I welcome collaborations on topics related to:
 
