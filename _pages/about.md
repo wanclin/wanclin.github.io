@@ -15,7 +15,7 @@ Hello I'm Wan-Chen! ✨
 
 I am a public health researcher with over four years of experience in epidemiological research, focusing on how social and physical environments influence mental health and child development. I am passionate about using quantitative and mixed-methods approaches to uncover the stories hidden within data.
 
-Currently, I am a **Master of Public Health student** at the **University of North Carolina at Chapel Hill**, concentrating in Health Behavior with a minor in Epidemiology. Here, I also serve as a Graduate Research Assistant in the Department of Epidemiology. Originally from Taiwan, I earned my BSc in Public Health from Taipei Medical University and am a nationally certified Public Health Specialist.
+Currently, I am a **Master of Public Health student** at the **University of North Carolina at Chapel Hill**, concentrating in Health Behavior with a minor in Epidemiology. Here, I also serve as a Graduate Research Assistant in the Department of Epidemiology. Originally from Taiwan, I earned my B.S. in Public Health from Taipei Medical University and am a nationally certified Public Health Specialist.
 
 My research interests are fundamentally driven by a fascination with resilience. I aim to understand the complex ways in which adversity affects mental health and, more importantly, to identify the protective factors and coping mechanisms that enable individuals and communities to flourish despite challenges. This pursuit is not merely academic; it's a personal exploration of how we cultivate inner strength in an era of constant challenge and change. I believe public health is fundamentally about people, and science—both natural and social science—has the power to make their lives better.
 
@@ -71,5 +71,6 @@ I am an early-career scholar eager to contribute to the academic world. I welcom
 I can assist with data analysis, survey development, intervention evaluation, literature reviews, and manuscript writing. If our interests align, or I can support your work in any way, please feel free to reach out to me at [is.wclin@gmail.com](mailto:is.wclin@gmail.com)!
 
 ---
+
 
 ![tw to nc](/images/lin-taiwan-to-nc.jpg)
