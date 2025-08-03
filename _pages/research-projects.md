@@ -14,19 +14,17 @@ author_profile: true
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5em;">
   <div>
-    *Department of Epidemiology, UNC Gillings School of Global Public Health*<br>
-    *May 2025 - Present*
+    <i>Department of Epidemiology, UNC Gillings School of Global Public Health</i><br>
+    <i>May 2025 - Present</i>
   </div>
   <div style="flex-shrink: 0; margin-left: 20px;">
-    <img src="/images/lin-bachpan-logo.png" alt="Bachpan Study Logo" style="width:150px;">
+    <img src="/images/lin-bachpan-logo.png" alt="Bachpan Study Logo" style="width:250px;">
   </div>
 </div>
 
 *Department of Epidemiology, UNC Gillings School of Global Public Health*
 
 *May 2025 - Present*
-
-![](lin-bachpan-logo-png)
 
 I currently work as a Graduate Research Assistant on the **Bachpan Study**, a longitudinal cohort study led by Dr. Joanna “Asia” Maselko. The study has followed over 1,000 mother–child pairs in Pakistan since 2014, beginning in the mothers’ third trimester. It explores maternal psychosocial health, family environment, and child development—covering cognitive, emotional, and school-related outcomes.  
 
