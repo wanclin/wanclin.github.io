@@ -12,17 +12,15 @@ author_profile: true
 # Bachpan Study
 [https://www.bachpanstudy.com/](https://www.bachpanstudy.com/)
 
-<table style="border: none; width: 100%;">
-  <tr style="border: none;">
-    <td style="vertical-align: middle; border: none;">
-      *Department of Epidemiology, UNC Gillings School of Global Public Health*<br>
-      *May 2025 - Present*
-    </td>
-    <td style="text-align: right; vertical-align: middle; border: none;">
-      <img src="/images/lin-bachpan-logo.png" alt="Bachpan Study Logo" style="width:150px;">
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 1.5em;">
+  <div>
+    *Department of Epidemiology, UNC Gillings School of Global Public Health*<br>
+    *May 2025 - Present*
+  </div>
+  <div style="flex-shrink: 0; margin-left: 20px;">
+    <img src="/images/lin-bachpan-logo.png" alt="Bachpan Study Logo" style="width:150px;">
+  </div>
+</div>
 
 *Department of Epidemiology, UNC Gillings School of Global Public Health*
 
