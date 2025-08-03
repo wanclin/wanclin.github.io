@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download my full CV here](/files/CV_Lin_0728.pdf) (Updated July 2025) 📄
+**[Download my full CV here](/files/CV_Lin_0728.pdf)** (Updated July 2025) 📄
 
 -----
 

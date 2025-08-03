@@ -30,8 +30,6 @@ My present work spans several key areas of maternal mental health and child heal
 * **Postpartum Eating Disorders**: Conducting a scoping review to identify the current evidence and gaps on eating disorders among postpartum women and their offspring.
 * **MPH Capstone**: Collaborating with the NC Division of Public Health, Injury and Violence Prevention Branch, to develop place-based cannabis resources for injury and violence prevention.
 
-In my free time, I enjoy listening to Tchaikovsky and Rachmaninoff, reading books, and exploring Vedic Astrology and Tarot. I also love playing badminton.
-
 ## Skills & Methodologies
 
 I am proficient in the full research cycle, from study design and data collection to analysis and academic writing.
@@ -59,7 +57,7 @@ I am a self-motivated and curious learner, constantly expanding my toolkit. Beyo
 
 ## Open to Collaboration 🤝
 
-I am an early-career scholar eager to contribute to the academic world. I welcome collaborations on topics related to:
+As an early-career scholar eager to contribute to the academic world, I welcome collaborations on wide ranges of topics including:
 
 * Mental Health & Psychiatric Epidemiology
 * Perinatal, Maternal, and Child Health
@@ -68,7 +66,7 @@ I am an early-career scholar eager to contribute to the academic world. I welcom
 * Climate Change and Health
 * mHealth & Digital Behavior Change Interventions
 
-I can assist with data analysis, survey development, intervention evaluation, literature reviews, and manuscript writing. If our interests align, or I can support your work in any way, please feel free to reach out to me at [is.wclin@gmail.com](mailto:is.wclin@gmail.com) !
+I can assist with data analysis, survey development, intervention evaluation, literature reviews, and manuscript writing. If our interests align, or I can support your work in any way, please feel free to reach out to me at [is.wclin@gmail.com](mailto:is.wclin@gmail.com) 📬!
 
 &nbsp;
 
