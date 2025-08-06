@@ -12,46 +12,53 @@ author_profile: true
 # Current Projects
 
 ## Bachpan Study
-[https://www.bachpanstudy.com/](https://www.bachpanstudy.com/)
+[Link to the official website of the Bachpan Study](https://www.bachpanstudy.com/)
+
+*Department of Epidemiology, UNC Gillings School of Global Public Health*<br>
+*May 2025 - Present*
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
-  <div>
-    <i>Department of Epidemiology, UNC Gillings School of Global Public Health</i><br>
-    <i>May 2025 - Present</i><br><br>
-    I currently work as a Graduate Research Assistant of the <b>Bachpan Study</b>, a longitudinal cohort study led by Dr. Joanna “Asia” Maselko. The study has followed over 1,000 mother–child pairs in Pakistan since 2014, beginning in the mothers’ third trimester. It explores maternal psychosocial health, family environment, and child development outcomes.  
+  <div style="padding-right: 20px;">
+    I currently serve as a Graduate Research Assistant for the <b>Bachpan Study</b>, a longitudinal cohort study led by Dr. Joanna “Asia” Maselko. The study has followed over 1,000 mother–child pairs in Pakistan since 2014, beginning in the mothers’ third trimester. It explores maternal psychosocial health, the family environment, and child development outcomes.
+    <br><br>
+    My responsibilities include conducting quantitative data analyses and creating dissemination materials to communicate findings with participating households. I am currently leading a project examining the relationship between maternal parental engagement, maternal mental health, and children’s learning outcomes.
   </div>
-  <div style="flex-shrink: 0; margin-left: 20px;">
+  <div style="flex-shrink: 0;">
     <img src="/images/lin-bachpan-logo.png" alt="Bachpan Study Logo" style="width:200px;">
   </div>
 </div>
 
-My responsibilities include conducting quantitative data analyses and creating dissemination materials to communicate findings with participating households. I am currently leading a project examining the relationship between maternal parental engagement, maternal mental health, and children’s learning outcomes.
-
 ## Scoping Review on Eating Disorders Among Postpartum Women
 
+*Collaboration with RTI International*<br>
 *December 2024 - Present*
 
-This is the first research project I joined after moving to the U.S., in collaboration with Marina Pearsall, MPH, RD, and Nisha O’Shea, PhD, at RTI International. The review focuses on maternal mental health, infant feeding practices, and screening strategies for eating disorders in postpartum women.
+In collaboration with Marina Pearsall, MPH, RD, and Nisha Gottfredson O'Shea, PhD, at RTI International, this scoping review focuses on maternal mental health, infant feeding practices, and screening strategies for eating disorders in postpartum women.
 
-I contributed to screening over 600 articles, assessing study quality, and extracting data from more than 30 eligible studies. I am now co-authoring a manuscript based on the findings for submission to a peer-reviewed journal.
+**My Contributions:**
+- Screened over 600 articles for eligibility.
+- Assessed study quality and extracted data from more than 30 eligible studies.
+- Currently co-authoring a manuscript for submission to a peer-reviewed journal.
+
+-----
 
 # Completed Graduate Projects
 
 ## Primary Care Training Enhancement – Residency Training in Mental and Behavioral Health
 
-*Department of Family Medicine, UNC School of Medicine*
-
+*Department of Family Medicine, UNC School of Medicine*<br>
 *May 2025 - July 2025*
 
-As part of my MPH practicum, I contributed to the evaluation of residency training program enhancing mental and behavioral health at UNC Department of Family Medicine by developing two deliverables:
-1. **Qualitative Study on PGY1 Residents’ Perspectives (n = 24)**
-	- Conducted a qualitative analysis of how first-year family medicine residents perceive their role in delivering mental and behavioral health (MBH) care.
-	- We found that residents often saw themselves as both the frontline providers and a bridge between patients and specialized mental health services. However, some ambiguity remains around the scope of primary care providers (PCPs) in addressing mental health.
-	- A manuscript based on this work is currently in preparation for submission to a peer-reviewed journal.
-2. **Literature Review Report: Integration of Mental and Behavioral Health in Primary Care**
-	- Conducted a scoping review of over 6,000 studies; 16 met the inclusion criteria.
-	- The review identified current practices, PCP roles, and key barriers in MBH care integration within primary care settings.
-    | **PCP Roles in MBH Care**          | **Identified Barriers**                      |
+As my MPH practicum, I contributed to the evaluation of a residency training program aimed at enhancing mental and behavioral health (MBH) at the UNC Department of Family Medicine. I developed two key deliverables:
+
+1.  **Qualitative Study on PGY1 Residents’ Perspectives (n = 24)**
+    - Conducted a qualitative analysis of how first-year family medicine residents perceive their role in delivering MBH care.
+    - Findings indicated that residents see themselves as both frontline providers and a bridge to specialized services, though ambiguity remains regarding the scope of their role. A manuscript is in preparation for submission.
+
+2.  **Literature Review Report: Integration of MBH in Primary Care**
+    - Conducted a scoping review of over 6,000 studies, with 16 meeting the inclusion criteria.
+    - The review identified current practices, PCP roles, and key barriers to MBH integration.
+    | **PCP Roles in MBH Care** | **Identified Barriers** |
     |------------------------------------|----------------------------------------------|
     | - Screening, assessment, diagnosis | - Referral system and navigation challenges  |
     | - Treatment and referral           | - Administrative burden                      |
@@ -59,83 +66,73 @@ As part of my MPH practicum, I contributed to the evaluation of residency train
     |                                    | - Lack of confidence and training among PCPs |
     |                                    | - Patient engagement difficulties            |
     |                                    | - Time constraints and reimbursement issues  |
-	- **Recommendations:**
-		- Enhance training for PCPs in managing complex psychiatric conditions
-		- Improve interprofessional collaboration skills
-		- Leverage technology to streamline communication and referral processes
-		- Adapt MBH interventions to the realities of primary care
-		- Provide institutional support for PCP well-being and self-care
+    - **Recommendations** included enhancing PCP training, improving collaboration, leveraging technology, and providing institutional support.
+
+-----
 
 # Completed Undergraduate Projects
 
 ## Relationship Between Instagram Use and Subjective Well-Being
 
+*School of Public Health, Taipei Medical University*<br>
+*July 2022 – February 2023*
+
+As the Principal Investigator, I secured a competitive University Students Research Grant from the National Science and Technology Council (NSTC), Taiwan (Grant No. 111-2813-C-038-081-B; Value: NTD $58,000). My responsibilities encompassed the entire research cycle, including proposal writing, survey design, data collection, statistical analysis, and final report composition.
+
+This project investigated the association between Instagram use and mental health among college students. Key findings indicated that Instagram usage time was not directly linked to mental health, whereas Instagram addiction was negatively associated with well-being and positively associated with depression. Resilience was found to be a significant moderator in these relationships.
+
+The findings were presented at the 2023 European Public Health Conference and published in a supplement of *The European Journal of Public Health*, which has since garnered two citations. [Link to Poster](/images/eph_poster_2023.jpg).
 
 ## Longitudinal Examination across Prenatal and Postpartum Health in Taiwan (LEAPP-HIT)
-[https://leapp-hit-eng.mystrikingly.com/](https://leapp-hit-eng.mystrikingly.com/)
 
-*School of Public Health, Taipei Medical University*
+*School of Public Health, Taipei Medical University*<br>
+*September 2021 – June 2024*
 
-*09/2021 – 06/2024
+[Link to the official website of the LEAPP-HIT Cohort Study (Eng. Version)](https://leapp-hit-eng.mystrikingly.com/)
 
-As an undergraduate, I joined Dr. Yi-Hua Chen’s research lab working on the **LEAPP-HIT Cohort Study**, a longitudinal investigation of over 2,000 households (mothers, fathers, and children) across 11 time points in Taiwan. My work spanned both independent research contributions and broader lab support.
+As an undergraduate research assistant in Dr. Yi-Hua Chen’s lab, I worked on the **LEAPP-HIT Cohort Study**, a longitudinal project following over 2,000 households across 11 time points in Taiwan. My work included both independent research and broad lab support.
 
-### Selected Key Findings from my Work in the LEAPP-HIT Study:
+**Selected Key Findings from My Research:**
+- **Marital Quality & Prenatal Depression:** Better partner relationships during pregnancy were associated with lower paternal depressive symptoms, a link moderated by resilience.
+- **Prenatal Temperature & Birth Outcomes:** Lower third-trimester temperatures were linked to higher risks of low birth weight and preterm birth, with effects more pronounced for summer births.
+- **Green Space & Parental Well-Being:** Higher residential greenness (NDVI) was positively associated with maternal life satisfaction, particularly for women delivering in summer.
 
-- **Marital Quality & Prenatal Depression:** Better partner relationships during pregnancy were significantly associated with lower depressive symptoms. Stratified by resilience, this association held for fathers with high resilience but not for those with low resilience or for mothers, suggesting a moderating effect of psychological resilience.
-- **Prenatal Temperature & Birth Outcomes:** Lower minimum temperatures during the third trimester were linked to higher risks of **low birth weight** and **preterm birth**. Adverse effects were more pronounced when babies were born in summer, as higher maximum temperatures also showed significant associations.
-- **Green Space Exposure and Parental Well-Being:** Higher greenness around the residential area (measured by NDVI) was positively associated with maternal life satisfaction in the third trimester—but only among women delivering in summer. No significant associations were found for fathers.
+**My Contributions:**
+- **Research & Analysis:** Supported data analysis for a pregnancy-related anemia project and led data preparation for a deep learning collaboration with National Yang Ming Chiao Tung University.
+- **Tool Development:** Translated and culturally adapted the **Flourishing Index** into Traditional Chinese; developed web-based mood tracking tools using **Ecological Momentary Assessment (EMA)**.
+- **Data Management:** Performed data entry and cleaning for the 11-wave cohort; developed SAS code to score psychosocial scales; merged cohort data with longitudinal environmental datasets.
+- **Teaching:** Delivered a lab-wide lecture on systematic review and meta-analysis methods.
 
-### My Contributions:
+➡️ See the [Publications](https://wanclin.github.io/publications/) section for more about my work with the LEAPP-HIT Lab.
 
-- **Translation & Adaptation:** Translated and culturally adapted the **Flourishing Index** into Traditional Chinese.
-- **Digital Tools:** Developed web-based mood tracking platforms using **Ecological Momentary Assessment (EMA)** methods.
-- **Teaching:** Delivered a lab-wide lecture on **systematic review and meta-analysis** methods.
-- **Data Management:**
-    - Conducted **data entry and cleaning** for the cohort (11 waves, >2,000 families).
-    - Developed **SAS code** to calculate total scores for standardized psychosocial scales (e.g., EPDS, STAI, PSQI).
-    - Merged longitudinal LEAPP-HIT cohort data with other longitudinal environmental datasets.
-- **Additional Projects:**
-    - Supported data analysis for a **pregnancy-related anemia** project at Mackay Memorial Hospital’s OBGYN department.
-    - EveLed the data preparation for a collaboration project of **deep learning** using LEAPP-HIT data with National Yang Ming Chiao Tung University.
+## International Comparative Study on the Effectiveness of Taiwan's COVID-19 Control Measures
+*School of Public Health, Taipei Medical University*<br>
+*July 2021 – March 2024*
 
-➡️ See the [Publications](https://wanclin.github.io/publications/) section to learn more about my work with the LEAPP-HIT Lab.
+Under the supervision of Dr. Yi-Hua Chen, I contributed to this project funded by the Taiwan Ministry of Health and Welfare. The study analyzed Taiwan's pandemic response, finding that early success relied on non-pharmaceutical interventions (NPIs) but that later outbreaks highlighted the need for robust medical resources. The final report recommended developing a data-driven surveillance system for future epidemics.
 
-## International Comparative Study of the Effectiveness of COVID-19 Control Measures in Taiwan and their Impact on Population Health
+**My Key Contributions:**
+- Led the literature screening and extraction process.
+- Drafted the final report summarizing research findings and policy recommendations.
 
-*School of Public Health, Taipei Medical University*
-*07/2021 – 03/2024*
+## Health Status of the Elderly in Kinmen County: Impact of Education and Community Health Programs
+*Jincheng Health Center, Kinmen County*<br>
+*July 2023 – August 2023*
 
-Also under Dr. Yi-Hua Chen's supervision, This project analyzes Taiwan's response to the COVID-19 pandemic, funded by Ministry of Health and Welfare, Taiwan. Our literature review found that Taiwan's early success in containing the virus was largely due to non-pharmaceutical interventions (NPIs) and "soft lockdowns." However, a major outbreak in 2022 highlighted the critical need for robust medical resources, including stable vaccine and testing supplies, to complement NPIs. Following the stabilization of the domestic situation, emergency measures were phased out in May 2023. The report concludes by recommending the development of a data-driven, integrated surveillance system to ensure timely and effective responses to future epidemics.
+This undergraduate practicum explored health disparities and the effectiveness of health promotion in Kinmen, an outlying island of Taiwan with a unique socio-historical context and aging population. This project was one of the first to formally examine social determinants of health in Kinmen. 
 
-In this project, I was responsible for:
-- Lead the literature screening and extraction
-- Draft the report
+**Key Findings:**
+- **Health Disparities:** Higher education levels were significantly associated with better overall health status.
+- **Program Effectiveness:** The community program significantly improved participants' cognition, muscle nutrition, and oral health, but not daily functioning or psychosocial well-being.
 
-### My Reflections:
+*Special thanks to my practicum preceptors, Pei-Chen Lin, MS, and Ya-Chuan Hsu, MD, at the Jincheng Health Center, and my academic advisor for practicum, Dr. Ying-Chih Chuang.*
 
-As the ancient text Sun Tzu's Art of War states: *"Do not rely on the enemy not coming, but on our own preparedness. Do not rely on the enemy not attacking, but on making ourselves unassailable."* I believe that in the face of future uncertainties, a proactive approach of learning from past experiences—both our own and others'—is far more constructive than passive fear. By reflecting on our journey and drawing lessons from global examples, we can build a more resilient and efficient epidemic response framework. While Taiwan's approach to COVID-19 had room for improvement, its initial success with NPIs offered a valuable model for the world in managing the early stages of a pandemic.
+Full Practicum Report (Mandarin with an English abstract): [Here](files/undergrad-practicum-report.pdf)
 
-## Exploring the Health Status of the Elderly in Jincheng Township, Kinmen County: The Impact of Education Levels and Community-Based Health Promotion Programs
-
-*Jincheng Health Center*
-*07/2023 – 08/2023*
-
-I finished my undergraduate practicum at Jinchen, Kinmen. Kinmen, an outlying island of Taiwan, possesses a unique socio-historical landscape shaped by its frontline position during the Cold War and its distinct role in contemporary cross-strait relations. Decades of military administration in the 20th century have profoundly influenced its development. Today, Kinmen faces the dual challenges of rapid population aging and limited local medical infrastructure. This often necessitates residents traveling to the main island of Taiwan for specialized care, and in severe or emergent cases, patients require medical evacuation (emergent referrals). This context makes promoting "active aging" and understanding local health disparities particularly critical. This project is one of the first to formally discuss social determinants of health and health equity within Kinmen's unique social context.
-
-### Key Findings:
-- Health Disparities: A higher level of education was significantly associated with better overall health status, highlighting the tangible impact of social determinants of health in this specific population.
-- Program Effectiveness: The health promotion program demonstrated positive and significant effects on participants' cognition, muscle nutrition, and oral health. However, statistically significant improvements were not observed in daily functioning or psychosocial well-being, suggesting specific areas for future program enhancement.
-
-## Acknowledgements
-Special thanks to my practicum mentors, Pei-Chen Lin, MS, and Ya-Chuan Hsu, MD, at the Jincheng Health Center for their invaluable guidance, and to my advisor, Dr. Ying-Chih Chuang of Taipei Medical University's School of Public Health, for her expert supervision.
-
-Full Practicum Report (Mandarin): [Your Link Here]
-
-## STAT6 Appears to Be a Potential Regulator of Galectin-3 in Tauopathy
-
-*Neuroscience Program of Academia Sinica (NPAS), Institute of Biomedical Science, Academia Sinica*
-
+## STAT6 as a Potential Regulator of Galectin-3 in Tauopathy
+*Neuroscience Program of Academia Sinica (NPAS), Institute of Biomedical Sciences, Academia Sinica*<br>
 *July 2022 - August 2022*
 
-I was honored to be selected as one of the summer research student of Neuroscience Program of Academia Sinica in Dr. Yijaung Chern's Lab. I was trained in biodmedical laboratory teachniques and conducted experiments, analyze data,  I regularly presented my findings at lab meetings and delivered a formal presentation of my summer's work at the final NPAS Program symposium to an audience of peers and faculty. Our research findings finds that the xxx STAT6 may be the regulator of Galection-3, a protein promoting microglial activation and the spread of misfolded tau protein in nerodegenerative disease. Modulating this pathway could potentially mitigate pathway of Alzheimer's Disease progression.
+Selected for the competitive NPAS summer research program in Dr. Yih-Juang Chern's lab, I was trained in biomedical laboratory techniques. My project focused on the role of the transcription factor STAT6 in regulating Galectin-3, a protein involved in microglial activation and the spread of misfolded tau protein in neurodegenerative diseases.
+
+Our findings suggest that STAT6 may regulate Galectin-3, indicating that modulating this pathway could be a potential therapeutic strategy for mitigating the progression of Alzheimer's Disease. I presented these findings at weekly lab meetings and at the final NPAS Program symposium. 
