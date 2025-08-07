@@ -84,11 +84,10 @@ This project investigated the association between Instagram use and mental healt
 The findings were presented at the 2023 European Public Health Conference and published in a supplement of *The European Journal of Public Health*, which has since garnered two citations. [Link to Poster](/images/eph_poster_2023.jpg).
 
 ## Longitudinal Examination across Prenatal and Postpartum Health in Taiwan (LEAPP-HIT)
+[Link to the official website of the LEAPP-HIT Cohort Study (Eng. Version)](https://leapp-hit-eng.mystrikingly.com/)
 
 *School of Public Health, Taipei Medical University*<br>
 *September 2021 – June 2024*
-
-[Link to the official website of the LEAPP-HIT Cohort Study (Eng. Version)](https://leapp-hit-eng.mystrikingly.com/)
 
 As an undergraduate research assistant in Dr. Yi-Hua Chen’s lab, I worked on the **LEAPP-HIT Cohort Study**, a longitudinal project following over 2,000 households across 11 time points in Taiwan. My work included both independent research and broad lab support.
 
@@ -133,6 +132,6 @@ Full Practicum Report (Mandarin with an English abstract): [Here](files/undergra
 *Neuroscience Program of Academia Sinica (NPAS), Institute of Biomedical Sciences, Academia Sinica*<br>
 *July 2022 - August 2022*
 
-Selected for the competitive NPAS summer research program in Dr. Yih-Juang Chern's lab, I was trained in biomedical laboratory techniques. My project focused on the role of the transcription factor STAT6 in regulating Galectin-3, a protein involved in microglial activation and the spread of misfolded tau protein in neurodegenerative diseases.
+Selected for the competitive NPAS summer research program in Dr. Yijuang Chern's lab, I was trained in biomedical laboratory techniques. My project focused on the role of the transcription factor STAT6 in regulating Galectin-3, a protein involved in microglial activation and the spread of misfolded tau protein in neurodegenerative diseases.
 
 Our findings suggest that STAT6 may regulate Galectin-3, indicating that modulating this pathway could be a potential therapeutic strategy for mitigating the progression of Alzheimer's Disease. I presented these findings at weekly lab meetings and at the final NPAS Program symposium. 
