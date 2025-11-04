@@ -7,14 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
----
+-----
 
 ## 🚀 Current Projects
 
 ### Bachpan Study
 [Link to the official website of the Bachpan Study](https://www.bachpanstudy.com/)
 
-> **Role:** Graduate Research Assistant** > **Affiliation:** Department of Epidemiology, UNC Gillings School of Global Public Health** > **Duration:** May 2025 – Present**
+> **Role:** Graduate Research Assistant** <br> **Affiliation:** Department of Epidemiology, UNC Gillings School of Global Public Health** <br> **Duration:** May 2025 – Present**
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
   <div style="padding-right: 20px;">
@@ -27,13 +27,11 @@ author_profile: true
   </div>
 </div>
 
----
+-----
 
 ### Scoping Review on Eating Disorders Among Postpartum Women
 
-> **Role:** Graduate Research Collaborater (Volunteer)
-> **Affiliation:** RTI International
-> **Duration:** December 2024 – Present
+> **Role:** Graduate Research Collaborater (Volunteer) <br> **Affiliation:** RTI International <br> **Duration:** December 2024 – Present
 
 In collaboration with Marina Pearsall, MPH, RD, and Nisha Gottfredson O'Shea, PhD, at RTI International, this scoping review focuses on maternal mental health, infant feeding practices, and screening strategies for eating disorders in postpartum women.
 
@@ -42,7 +40,7 @@ In collaboration with Marina Pearsall, MPH, RD, and Nisha Gottfredson O'Shea, Ph
 - Assessed study quality and extracted data from more than 30 eligible studies.
 - Currently co-authoring a manuscript for submission to a peer-reviewed journal.
 
----
+-----
 
 ## 🎓 Completed Projects
 
@@ -60,10 +58,10 @@ As my MPH practicum, I contributed to the evaluation of a residency training pro
 
 2.  **Literature Review Report: Integration of MBH in Primary Care**
     - Conducted a scoping review of over 6,000 studies, with 16 meeting the inclusion criteria.
-    - The review identified current practices, PCP roles, and key barriers to MBH integration.
+    - The review identified current practices, roles, and key barriers to MBH integration for primary care providers (PCPs).
     - Recommendations included enhancing PCP training, improving collaboration, leveraging technology, and providing institutional support.
 
----
+-----
 
 ### Relationship Between Instagram Use and Subjective Well-Being
 
@@ -77,7 +75,7 @@ This project investigated the association between Instagram use and mental healt
 
 The findings were presented at the 2023 European Public Health Conference and published in a supplement of *The European Journal of Public Health*, which has since garnered two citations. [Link to Poster](https://wanclin.github.io/files/poster_2023_EPH.pdf).
 
----
+-----
 
 ### Longitudinal Examination across Prenatal and Postpartum Health in Taiwan (LEAPP-HIT)
 [Link to the official website of the LEAPP-HIT Cohort Study (Eng. Version)](https://leapp-hit-eng.mystrikingly.com/)
@@ -101,7 +99,7 @@ As an undergraduate research assistant in Dr. Yi-Hua Chen’s lab, I worked on t
 
 ➡️ See the **[Publications]({{ site.baseurl }}/publications/)** section for more about my work with the LEAPP-HIT Lab.
 
----
+-----
 
 ### International Comparative Study on the Effectiveness of Taiwan's COVID-19 Control Measures
 
@@ -115,7 +113,7 @@ Under the supervision of Dr. Yi-Hua Chen, I contributed to this project funded b
 - Led the literature screening and extraction process.
 - Drafted the final report summarizing research findings and policy recommendations.
 
----
+-----
 
 ### Health Status of the Elderly in Kinmen County: Impact of Education and Community Health Programs
 
@@ -133,7 +131,7 @@ This undergraduate practicum explored health disparities and the effectiveness o
 
 Full Practicum Report (Mandarin with an English abstract): [Here](https://wanclin.github.io/files/undergrad-practicum-report.pdf)
 
----
+-----
 
 ### STAT6 as a Potential Regulator of Galectin-3 in Tauopathy
 
