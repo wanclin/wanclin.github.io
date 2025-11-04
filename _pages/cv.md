@@ -15,7 +15,7 @@ redirect_from:
 
 ## Education
 
-* **MPH in Health Behavior (Minor: Epidemiology)**, University of North Carolina at Chapel Hill, 2026 (expected)
+* **MPH in Health Behavior**, University of North Carolina at Chapel Hill, 2026 (expected)
 * **B.S. in Public Health**, Taipei Medical University, 2024
 
 ## Research Experience

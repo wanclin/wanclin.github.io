@@ -21,7 +21,7 @@ author_profile: true
   <div style="padding-right: 20px;">
     I currently serve as a Graduate Research Assistant for the <b>Bachpan Study</b>, a longitudinal cohort study led by Dr. Joanna “Asia” Maselko. The study has followed over 1,000 mother–child pairs in Pakistan since 2014, beginning in the mothers’ third trimester. It explores maternal psychosocial health, the family environment, and child development outcomes.
     <br><br>
-    My responsibilities include conducting quantitative data analyses and creating dissemination materials to communicate findings with participating households. I am currently leading a project examining the relationship between maternal parental engagement, maternal mental health, and children’s learning outcomes.
+    My responsibilities include conducting quantitative data analyses and developing dissemination materials to communicate findings to participating households. I am currently leading a paper examining associations between childhood trauma and children’s socioemotional outcomes. In addition, I actively collaborate with colleagues on projects that (1) explore the relationship between maternal engagement, maternal mental health, and children’s learning outcomes, and (2) investigate the associations between COVID-19-related stressors and child learning outcomes.
   </div>
   <div style="flex-shrink: 0;">
     <img src="/images/lin-bachpan-logo.png" alt="Bachpan Study Logo" style="width:200px;">
@@ -58,15 +58,7 @@ As my MPH practicum, I contributed to the evaluation of a residency training pro
 2.  **Literature Review Report: Integration of MBH in Primary Care**
     - Conducted a scoping review of over 6,000 studies, with 16 meeting the inclusion criteria.
     - The review identified current practices, PCP roles, and key barriers to MBH integration.
-    | **PCP Roles in MBH Care** | **Identified Barriers** |
-    |------------------------------------|----------------------------------------------|
-    | - Screening, assessment, diagnosis | - Referral system and navigation challenges  |
-    | - Treatment and referral           | - Administrative burden                      |
-    | - Care coordination and follow-up  | - Limited interprofessional communication    |
-    |                                    | - Lack of confidence and training among PCPs |
-    |                                    | - Patient engagement difficulties            |
-    |                                    | - Time constraints and reimbursement issues  |
-    - **Recommendations** included enhancing PCP training, improving collaboration, leveraging technology, and providing institutional support.
+    - Recommendations included enhancing PCP training, improving collaboration, leveraging technology, and providing institutional support.
 
 -----
 

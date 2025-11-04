@@ -15,7 +15,7 @@ Hello I'm Wan-Chen! ✨
 
 I am a public health researcher with over four years of experience in epidemiological research, focusing on **how social and physical environments influence mental health and child development**. I am passionate about using quantitative and mixed-methods approaches to uncover the stories hidden within data.
 
-Currently, I am a **Master of Public Health student** at the **University of North Carolina at Chapel Hill**, concentrating in Health Behavior with a minor in Epidemiology. Here, I also serve as a Graduate Research Assistant in the Department of Epidemiology. Originally from Taiwan, I earned my B.S. in Public Health from Taipei Medical University and am a nationally certified Public Health Specialist.
+Currently, I am a **Master of Public Health student** at the **University of North Carolina at Chapel Hill**, with concentration in Health Behavior. Here, I also serve as a Graduate Research Assistant in the Department of Epidemiology. Originally from Taiwan, I earned my B.S. in Public Health from Taipei Medical University and am a nationally certified Public Health Specialist.
 
 My research interests are fundamentally driven by a fascination with resilience. I aim to understand the complex ways in which adversity affects mental health, and to identify the protective factors and coping mechanisms that enable individuals and communities to flourish despite challenges. This pursuit is also a personal exploration of how we cultivate inner strength in an era of constant challenge and change. I believe public health is fundamentally about people, and science—both natural and social science—has the power to make their lives better.
 
@@ -27,7 +27,7 @@ In my free time, I enjoy listening to Tchaikovsky and Rachmaninoff 🎵, reading
 
 My present work spans several key areas of maternal mental health and child health:
 * **Bachpan Study**: Investigating the links between maternal mental health, parental engagement, and child well-being in a longitudinal cohort study. Leading a paper about childhood traumatic experiences and socioemotional development.
-* **Postpartum Eating Disorders**: Conducting a scoping review to identify the current evidence and gaps on eating disorders among postpartum women and their offspring.
+* **Postpartum Eating Disorders**: Conducting a scoping review to identify the current evidence and gaps on eating disorders among postpartum women and their offspring. 
 
 ## Skills & Methodologies
 
@@ -52,7 +52,7 @@ I am a self-motivated and curious learner, constantly expanding my toolkit. Beyo
 
 * 🧠 **Neuroscience of Mental Disorders**: I'm eager to deepen my understanding of fMRI and related methods to uncover the neural mechanisms underlying mental illness.
 
-* 📈 **Advanced Quantitative Methods**: I'm actively developing skills in longitudinal data analysis (e.g., GEE, GBTM, DLNM), multilevel modeling, and structural equation modeling to better analyze complex mental health data.
+* 📈 **Advanced Quantitative Methods**: I'm actively developing skills in longitudinal data analysis (e.g., GLMM, GBTM, DLNM), multilevel modeling, and structural equation modeling to better analyze complex mental health data.
 
 ## Open to Collaboration 🤝
 
