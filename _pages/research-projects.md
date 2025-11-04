@@ -14,7 +14,7 @@ author_profile: true
 ### Bachpan Study
 [Link to the official website of the Bachpan Study](https://www.bachpanstudy.com/)
 
-> **Role:** Graduate Research Assistant** <br> **Affiliation:** Department of Epidemiology, UNC Gillings School of Global Public Health** <br> **Duration:** May 2025 – Present**
+> **Role:** Graduate Research Assistant <br> **Affiliation:** Department of Epidemiology, UNC Gillings School of Global Public Health <br> **Duration:** May 2025 – Present
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 1.5em;">
   <div style="padding-right: 20px;">
@@ -46,9 +46,7 @@ In collaboration with Marina Pearsall, MPH, RD, and Nisha Gottfredson O'Shea, Ph
 
 ### Primary Care Training Enhancement – Residency Training in Mental and Behavioral Health
 
-> **Role:** Program Evaluation Intern
-> **Affiliation:** Department of Family Medicine, UNC School of Medicine
-> **Duration:** May 2025 – July 2025
+> **Role:** Program Evaluation Intern <br> **Affiliation:** Department of Family Medicine, UNC School of Medicine <br> **Duration:** May 2025 – July 2025
 
 As my MPH practicum, I contributed to the evaluation of a residency training program aimed at enhancing mental and behavioral health (MBH) at the UNC Department of Family Medicine. I developed two key deliverables:
 
@@ -65,24 +63,20 @@ As my MPH practicum, I contributed to the evaluation of a residency training pro
 
 ### Relationship Between Instagram Use and Subjective Well-Being
 
-> **Role:** Undergraduate Research Fellow
-> **Affiliation:** School of Public Health, Taipei Medical University
-> **Duration:** July 2022 – February 2023
+> **Role:** Undergraduate Research Fellow <br> **Affiliation:** School of Public Health, Taipei Medical University <br> **Duration:** July 2022 – February 2023
 
 As the Principal Investigator, I secured a competitive University Students Research Grant from the National Science and Technology Council (NSTC), Taiwan (Grant No. 111-2813-C-038-081-B; Value: NTD $58,000). My responsibilities encompassed the entire research cycle, including proposal writing, survey design, data collection, statistical analysis, and final report composition.
 
 This project investigated the association between Instagram use and mental health among college students. Key findings indicated that Instagram usage time was not directly linked to mental health, whereas Instagram addiction was negatively associated with well-being and positively associated with depression. Resilience was found to be a significant moderator in these relationships.
 
-The findings were presented at the 2023 European Public Health Conference and published in a supplement of *The European Journal of Public Health*, which has since garnered two citations. [Link to Poster](https://wanclin.github.io/files/poster_2023_EPH.pdf).
+The findings were presented at the 2023 European Public Health Conference and published in a supplement of *The European Journal of Public Health*, which has since garnered two citations. ➡️ [Link to the Poster](/files/poster_2023_EPH.pdf).
 
 -----
 
 ### Longitudinal Examination across Prenatal and Postpartum Health in Taiwan (LEAPP-HIT)
 [Link to the official website of the LEAPP-HIT Cohort Study (Eng. Version)](https://leapp-hit-eng.mystrikingly.com/)
 
-> **Role:** Undergraduate Research Assistant
-> **Affiliation:** School of Public Health, Taipei Medical University
-> **Duration:** September 2021 – June 2024
+> **Role:** Undergraduate Research Assistant <br> **Affiliation:** School of Public Health, Taipei Medical University <br> **Duration:** September 2021 – June 2024
 
 As an undergraduate research assistant in Dr. Yi-Hua Chen’s lab, I worked on the **LEAPP-HIT Cohort Study**, a longitudinal project following over 2,000 households across 11 time points in Taiwan. My work included both independent research and broad lab support.
 
@@ -103,9 +97,7 @@ As an undergraduate research assistant in Dr. Yi-Hua Chen’s lab, I worked on t
 
 ### International Comparative Study on the Effectiveness of Taiwan's COVID-19 Control Measures
 
-> **Role:** Undergraduate Research Assistant
-> **Affiliation:** School of Public Health, Taipei Medical University
-> **Duration:** July 2021 – March 2024
+> **Role:** Undergraduate Research Assistant <br> **Affiliation:** School of Public Health, Taipei Medical University <br> **Duration:** July 2021 – March 2024
 
 Under the supervision of Dr. Yi-Hua Chen, I contributed to this project funded by the Taiwan Ministry of Health and Welfare. The study analyzed Taiwan's pandemic response, finding that early success relied on non-pharmaceutical interventions (NPIs) but that later outbreaks highlighted the need for robust medical resources. The final report recommended developing a data-driven surveillance system for future epidemics.
 
@@ -117,9 +109,7 @@ Under the supervision of Dr. Yi-Hua Chen, I contributed to this project funded b
 
 ### Health Status of the Elderly in Kinmen County: Impact of Education and Community Health Programs
 
-> **Role:** Public Health Intern
-> **Affiliation:** Jincheng Health Center, Kinmen County
-> **Duration:** July 2023 – August 2023
+> **Role:** Public Health Intern <br> **Affiliation:** Jincheng Health Center, Kinmen County <br> **Duration:** July 2023 – August 2023
 
 This undergraduate practicum explored health disparities and the effectiveness of health promotion in Kinmen, an outlying island of Taiwan with a unique socio-historical context and aging population. This project was one of the first to formally examine social determinants of health in Kinmen. 
 
@@ -129,16 +119,16 @@ This undergraduate practicum explored health disparities and the effectiveness o
 
 *Special thanks to my practicum preceptors, Pei-Chen Lin, MS, and Ya-Chuan Hsu, MD, at the Jincheng Health Center, and my academic advisor for practicum, Dr. Ying-Chih Chuang.*
 
-Full Practicum Report (Mandarin with an English abstract): [Here](https://wanclin.github.io/files/undergrad-practicum-report.pdf)
+➡️ Link to the final report (Mandarin with an English abstract): [Here](/files/undergrad-practicum-report.pdf)
 
 -----
 
 ### STAT6 as a Potential Regulator of Galectin-3 in Tauopathy
 
-> **Role:** Summer Research Student
-> **Affiliation:** Neuroscience Program of Academia Sinica (NPAS), Institute of Biomedical Sciences, Academia Sinica
-> **Duration:** July 2022 – August 2022
+> **Role:** Summer Research Student <br> **Affiliation:** Neuroscience Program of Academia Sinica (NPAS), Institute of Biomedical Sciences, Academia Sinica <br> **Duration:** July 2022 – August 2022
 
 Selected for the competitive NPAS summer research program in Dr. Yijuang Chern's lab, I was trained in biomedical laboratory techniques. My project focused on the role of the transcription factor STAT6 in regulating Galectin-3, a protein involved in microglial activation and the spread of misfolded tau protein in neurodegenerative diseases.
 
 Our findings suggest that STAT6 may regulate Galectin-3, indicating that modulating this pathway could be a potential therapeutic strategy for mitigating the progression of Alzheimer's Disease. I presented these findings at weekly lab meetings and at the final NPAS Program symposium. 
+
+➡️ Link to the final presentation: [Here](/files/NPAS_Final Report_Lin.pdf)
