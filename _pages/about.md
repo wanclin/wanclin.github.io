@@ -38,7 +38,7 @@ I am proficient in the full research cycle, from study design and data collectio
 | **Statistical Software** | SAS, Stata, R (RStudio), GraphPad Prism |
 | **Qualitative Software** | Dedoose, ATLAS.ti |
 | **Geospatial Software** | ArcGIS Pro |
-| **Statistical Modeling** | Multiple imputation, inverse probability weighting, linear regression, logistic regression, generalized equation modeling, spatial regression |
+| **Statistical Modeling** | Multiple imputation, inverse probability weighting, <br> linear regression, logistic regression, <br> generalized equation modeling, spatial regression |
 | **Survey Methodology** | Survey development & implementation |
 | **Qualitative Analysis** | In-depth interview, thematic analysis |
 | **Literature Review** | Scoping review, systematic review, meta-analysis |
