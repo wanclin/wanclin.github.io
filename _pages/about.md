@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wan-Chen Lin"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,24 +26,23 @@ In my free time, I enjoy listening to Tchaikovsky and Rachmaninoff 🎵, reading
 ## Current Focus
 
 My present work spans several key areas of maternal mental health and child health:
-* **Bachpan Study**: Investigating the links between maternal mental health, parental engagement, and child well-being in a longitudinal cohort study.
+* **Bachpan Study**: Investigating the links between maternal mental health, parental engagement, and child well-being in a longitudinal cohort study. Leading a paper about childhood traumatic experiences and socioemotional development.
 * **Postpartum Eating Disorders**: Conducting a scoping review to identify the current evidence and gaps on eating disorders among postpartum women and their offspring.
-* **MPH Capstone**: Collaborating with the NC Division of Public Health, Injury and Violence Prevention Branch, to develop place-based cannabis resources for injury and violence prevention.
 
 ## Skills & Methodologies
 
 I am proficient in the full research cycle, from study design and data collection to analysis and academic writing.
 
-| Category                 | Skills                                                     |
-| ------------------------ | ---------------------------------------------------------- |
-| **Statistical Software** | SAS, Stata, R (RStudio), GraphPad Prism                    |
-| **Qualitative Software** | Dedoose, ATLAS.ti                                          |
-| **Geospatial Software**  | ArcGIS Pro                                                 |
-| **Statistical Modeling** | Linear regression, logistic regression, spatial regression |
-| **Survey Methodology**   | Survey development & implemtation, cognitive interview,    |
-| **Qualitative Analysis** | In-depth interview, thematic analysis                      |
-| **Literature Review**    | Scoping review, systematic review, meta-analysis           |
-| **Laboratory Skills**    | Cell culture, Western blot, immunocytochemistry            |
+| Category | Skills |
+| :--- | :--- |
+| **Statistical Software** | SAS, Stata, R (RStudio), GraphPad Prism |
+| **Qualitative Software** | Dedoose, ATLAS.ti |
+| **Geospatial Software** | ArcGIS Pro |
+| **Statistical Modeling** | Multiple imputation, inverse probability weighting, linear regression, logistic regression, generalized equation modeling, spatial regression |
+| **Survey Methodology** | Survey development & implementation |
+| **Qualitative Analysis** | In-depth interview, thematic analysis |
+| **Literature Review** | Scoping review, systematic review, meta-analysis |
+| **Laboratory Skills** | Cell culture, Western blot, immunocytochemistry |
 
 ## Future Directions & Learning in Progress
 
