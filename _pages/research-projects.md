@@ -73,7 +73,7 @@ As the Principal Investigator, I secured a competitive University Students Resea
 
 This project investigated the association between Instagram use and mental health among college students. Key findings indicated that Instagram usage time was not directly linked to mental health, whereas Instagram addiction was negatively associated with well-being and positively associated with depression. Resilience was found to be a significant moderator in these relationships.
 
-The findings were presented at the 2023 European Public Health Conference and published in a supplement of *The European Journal of Public Health*, which has since garnered two citations. [Link to Poster](https://wanclin.github.io/files/eph_poster_2023.pdf).
+The findings were presented at the 2023 European Public Health Conference and published in a supplement of *The European Journal of Public Health*, which has since garnered two citations. [Link to Poster](https://wanclin.github.io/files/poster_2023_EPH.pdf).
 
 ## Longitudinal Examination across Prenatal and Postpartum Health in Taiwan (LEAPP-HIT)
 [Link to the official website of the LEAPP-HIT Cohort Study (Eng. Version)](https://leapp-hit-eng.mystrikingly.com/)

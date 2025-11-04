@@ -74,21 +74,6 @@ redirect_from:
 * **Lin, W.C.** (Presenter), & Chen, Y.H. (2023, September 16–17). *Gender differences in the relationship between Instagram addiction and depression among college students* [Poster presentation]. 2023 Taiwan Public Health Joint Annual Conference, Kaohsiung, Taiwan.
 * **Lin, W.C.** (Presenter), Hsu, H.W., Lin, W.Y., Zou, M.L., & Chen, Y.H. (2022, October 15–16). *Relationship between parental relationship and depression during pregnancy: The modifying effect of resilience* [Poster presentation]. 61st Annual Conference of the Taiwanese Psychological Association, Taipei, Taiwan.
 
-## Skills
-
-* **Software**:
-  * **Statistical Software:** SAS, Stata, R (RStudio), GraphPad Prism
-  * **Qualitative Software:** Dedoose, ATLAS.ti
-  * **Geospatial Software:** ArcGIS Pro
-  * **Other Tools:** GitHub, Tableau, Covidence, EndNote, Zotero
-
-* **Laboratory Skills**
-  * **Cell & Molecular Biology:** Cell culture, plasmid sequencing, Western blot, immunocytochemistry
-
-* **Languages**
-  * **Mandarin Chinese:** Native
-  * **English:** Fluent – TOEFL iBT 102/120 (R:28, L:25, S:24, W:25)
-
 ## Certifications
 
 * **Psychological First Aid (PFA) Online**, *National Child Traumatic Stress Network*, July 2025
