@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Home"
+title                    : "Wan-Chen Lin"
 title_separator          : "-"
 name                     : &name "Wan-Chen Lin"
 description              : &description "personal description"
@@ -63,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "iswclin"
+  linkedin         : "wanclin"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
