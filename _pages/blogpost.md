@@ -7,7 +7,7 @@ author_profile: true
 
 -----
 
-**📝 Blog Content Coming Soon!**
+## 📝 Blog Content Coming Soon!
 
 I'm excited to share insights on public health research, statistical methods, and my passion for advancing population mental health. If there's a topic you'd like to see first, feel free to suggest it. Possible themes include (but not limited to):
 
