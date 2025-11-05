@@ -13,9 +13,9 @@ Hello I'm Wan-Chen! ✨
 
 ## About Me
 
-I am a public health researcher with over four years of experience in epidemiological research, focusing on **how social and physical environments influence mental health and child development**. I am passionate about using quantitative and mixed-methods approaches to uncover the stories hidden within data.
+I am a public health researcher with over four years of experience in epidemiological research, focusing on **how social environments influence mental health and child development**. I am passionate about using quantitative and mixed-methods approaches to uncover the stories hidden within data.
 
-Currently, I am a **Master of Public Health student** at the **University of North Carolina at Chapel Hill**, with concentration in Health Behavior. Here, I also serve as a Graduate Research Assistant in the Department of Epidemiology. Originally from Taiwan, I earned my B.S. in Public Health from Taipei Medical University and am a nationally certified Public Health Specialist.
+I am currently a second-year **Master of Public Health** student in the Health Behavior concentration at the **University of North Carolina at Chapel Hill**. I also work as a Graduate Research Assistant in the Department of Epidemiology. Originally from Taiwan, I earned my B.S. in Public Health from Taipei Medical University and am a nationally certified Public Health Specialist.
 
 My research interests are fundamentally driven by a fascination with resilience. I aim to understand the complex ways in which adversity affects mental health, and to identify the protective factors and coping mechanisms that enable individuals and communities to flourish despite challenges. This pursuit is also a personal exploration of how we cultivate inner strength in an era of constant challenge and change. I believe public health is fundamentally about people, and science—both natural and social science—has the power to make their lives better.
 
@@ -48,19 +48,19 @@ I am proficient in the full research cycle, from study design and data collectio
 
 I am a self-motivated and curious learner, constantly expanding my toolkit. Beyond my current skills, I’m deeply interested in the intersection of technology, neuroscience, and mental health.
 
-* 💡 **AI in Mental Health**: I'm exploring how machine learning can be applied—appropriately, effectively, and ethically—to predict mental health outcomes. I'm also interested in how generative AI can be integrated into mHealth interventions to support mental well-being.
+* 💡 **AI in Mental Health**: I am exploring how machine learning can be applied—responsibly, effectively, and ethically—to improve early identification of mental health risk, support timely intervention, and enhance population mental health research.
 
 * 🧠 **Neuroscience of Mental Disorders**: I'm eager to deepen my understanding of fMRI and related methods to uncover the neural mechanisms underlying mental illness.
 
-* 📈 **Advanced Quantitative Methods**: I'm actively developing skills in longitudinal data analysis (e.g., GLMM, GBTM, DLNM), multilevel modeling, and structural equation modeling to better analyze complex mental health data.
+* 📈 **Advanced Quantitative Methods**: I'm actively developing skills in longitudinal data analysis (e.g., GLMM, GEE, latent growth curve modeling, cross-lagged panel models, marginal structural models), multilevel modeling, and structural equation modeling. My goal is to leverage rigorous quantitative approaches to investigate complex public health and mental health questions.
 
 ## Open to Collaboration 🤝
 
 As an early-career scholar eager to contribute to the academic world, I welcome collaborations on wide ranges of topics including:
 
 * Mental Health & Psychiatric Epidemiology
-* Perinatal, Maternal, and Child Health
 * Suicide Prevention
+* Perinatal, Maternal, and Child Health
 * Substance Use
 * Climate Change and Health
 * mHealth & Digital Behavior Change Interventions
