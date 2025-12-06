@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-**[Download my full CV here](/files/CV_Lin_0728.pdf)** (Updated July 2025) 📄
+**[Download my full CV here](/files/CV_Lin_20251201.pdf)** (*Last updated: December 2025*) 📄
 
 -----
 
 ## Education
 
-* **MPH in Health Behavior (Minor: Epidemiology)**, University of North Carolina at Chapel Hill, 2026 (expected)
+* **MPH in Health Behavior**, University of North Carolina at Chapel Hill, 2026 (expected)
 * **B.S. in Public Health**, Taipei Medical University, 2024
 
 ## Research Experience
@@ -73,21 +73,6 @@ redirect_from:
 * Chen, C.C., Lin, W.Y., Zou, M.L., Hsu, H.W., **Lin, W.C.**, & Chen, Y.H. (2023). The link between smart device use and ADHD—how can reading and physical activity make a difference?. *The European Journal of Public Health*, 33(Suppl 2), ckad160.837. [https://doi.org/10.1093/eurpub/ckad160.837](https://doi.org/10.1093/eurpub/ckad160.837)
 * **Lin, W.C.** (Presenter), & Chen, Y.H. (2023, September 16–17). *Gender differences in the relationship between Instagram addiction and depression among college students* [Poster presentation]. 2023 Taiwan Public Health Joint Annual Conference, Kaohsiung, Taiwan.
 * **Lin, W.C.** (Presenter), Hsu, H.W., Lin, W.Y., Zou, M.L., & Chen, Y.H. (2022, October 15–16). *Relationship between parental relationship and depression during pregnancy: The modifying effect of resilience* [Poster presentation]. 61st Annual Conference of the Taiwanese Psychological Association, Taipei, Taiwan.
-
-## Skills
-
-* **Software**:
-  * **Statistical Software:** SAS, Stata, R (RStudio), GraphPad Prism
-  * **Qualitative Software:** Dedoose, ATLAS.ti
-  * **Geospatial Software:** ArcGIS Pro
-  * **Other Tools:** GitHub, Tableau, Covidence, EndNote, Zotero
-
-* **Laboratory Skills**
-  * **Cell & Molecular Biology:** Cell culture, plasmid sequencing, Western blot, immunocytochemistry
-
-* **Languages**
-  * **Mandarin Chinese:** Native
-  * **English:** Fluent – TOEFL iBT 102/120 (R:28, L:25, S:24, W:25)
 
 ## Certifications
 
