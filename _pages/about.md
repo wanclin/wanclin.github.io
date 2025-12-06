@@ -21,7 +21,7 @@ My research interests are fundamentally driven by a fascination with resilience.
 
 To know more about my academic experiences, please visit 👉 [Research Projects](https://wanclin.github.io/research-projects/) and [CV](https://wanclin.github.io/cv/).
 
-In my free time, I enjoy listening to Tchaikovsky and Rachmaninoff 🎵, reading books 📚, and exploring Vedic Astrology and Tarot 🔮. I also love playing badminton 🏸.
+In my free time, I enjoy listening to Tchaikovsky and Rachmaninoff 🎵 and reading books 📚. I also love playing badminton 🏸.
 
 ## Current Focus
 
